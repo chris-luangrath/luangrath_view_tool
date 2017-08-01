@@ -20,6 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
+LuangrathViewTool::Renderer.copyright 'Chris Luangrath', 'All rights reserved'
+```
 TODO: Write usage instructions here
 
 ## Development
